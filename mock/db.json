@@ -1,0 +1,21 @@
+{
+  "tasks": [
+    {
+      "id": "b2c4",
+      "text": "Das ist ein cooler Test",
+      "due": "Wed, 21 Feb 2024 23:00:00 GMT",
+      "done": false
+    },
+    {
+      "id": "4e2b",
+      "text": "Noch ein Test",
+      "done": false
+    },
+    {
+      "id": "9e7e",
+      "text": "Ein weiterer Test",
+      "due": "Fri, 27 Dec 2024 23:00:00 GMT",
+      "done": false
+    }
+  ]
+}
