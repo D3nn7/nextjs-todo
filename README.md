@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./public/logo.png">
+    <img src="./.github/banner.png">
 </p>
 
 This is a [Next.js](https://nextjs.org/) Todo app with [Tailwind CSS](https://tailwindcss.com/) to demonstrate how a Todo app can be built with Next.js 14.
